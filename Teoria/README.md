@@ -283,24 +283,18 @@ No final deste material, devera ser capaz de:
 
 ================================================================================
 
-## PROGRESSO SUGERIDO
-
-### Dia 1 (2h)
 - [ ] 01_MemoriaDinamica_Introducao.md
 - [ ] 02_RegraDos3_Destrutor.md
 - [ ] 03_RegraDos3_ConstrutorCopia.md
 
-### Dia 2 (2h)
 - [ ] 04_RegraDos3_OperadorAtribuicao.md
 - [ ] 05_IdiomaSwap.md
 - [ ] Comecar exercicio 1
 
-### Dia 3 (2h)
 - [ ] 07_ExemploCompleto_MyString.md
 - [ ] Completar exercicio 1
 - [ ] Testar com valgrind
 
-### Dia 4 (opcional - 2h)
 - [ ] 06_SementicaMove.md
 - [ ] Adicionar move ao exercicio 1
 - [ ] Comecar exercicio 2
@@ -319,26 +313,6 @@ No final deste material, devera ser capaz de:
 
 ================================================================================
 
-## VERSAO E DATA
-
-- **Versao:** 1.0 (ASCII)
-- **Criado:** Para Ficha 5 - POO 2025/2026
-- **Compatibilidade:** ASCII puro (funciona em qualquer sistema)
-
-================================================================================
-
-## MENSAGEM FINAL
-
-Este material foi criado com muito cuidado para o ajudar a dominar conceitos
-que muitos estudantes acham dificeis.
-
-**Nao desanime se parecer complicado no inicio!** E normal. Com pratica e
-paciencia, vai perceber que nao e tao dificil quanto parece.
-
-**Boa sorte com os estudos e com os exercicios!**
-
-================================================================================
-
 ## INDICE COMPLETO DOS FICHEIROS
 
 1. README.md - Este ficheiro (indice geral)
@@ -351,7 +325,6 @@ paciencia, vai perceber que nao e tao dificil quanto parece.
 8. 07_ExemploCompleto_MyString.md
 9. 08_Resumo_Geral.md
 
-**Total:** 9 ficheiros, ~500 paginas de material de estudo!
 
 ================================================================================
 
